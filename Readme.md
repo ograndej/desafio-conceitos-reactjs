@@ -28,15 +28,12 @@ Open [http://localhost:3000/](http://localhost:3000/repositories) to view it in 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
 - [Node.js][nodejs]
-- [Express](https://expressjs.com/)
-- [nodemon](https://nodemon.io/)
-- [Bcrypt](https://www.npmjs.com/package/bcrypt)
 - [React](https://pt-br.reactjs.org/)
 - [VS Code][vc]
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/gobarber-api/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/ograndej/desafio-conceitos-reactjs/blob/master/LICENSE) for more information.
 
 ---
 
